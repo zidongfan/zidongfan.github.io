@@ -1,0 +1,12 @@
+mg {
+    width: 100px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+}
+p.intro {
+    font-weight: bold;
+}
+em{
+    color: red;
+}
